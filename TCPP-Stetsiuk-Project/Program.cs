@@ -6,6 +6,7 @@ namespace TCPP_Stetsiuk_Project
     {
         static void Main(string[] args)
         {
+            // Змінено в гілці ALPHA
             Console.WriteLine("Hello World!");
         }
     }
